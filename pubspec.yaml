@@ -1,7 +1,10 @@
 name: aoiwe_logger
-description: A starting point for Dart libraries or applications.
+description: A structured logging package for Dart and Flutter. Features include global log level filtering, project name prefixing, and seamless IDE debug console integration.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+homepage: https://jsontodart.cn
+repository: https://github.com/Matkurban/aoiwe_logger
+topics:
+  - logger
 
 environment:
   sdk: ^3.11.3
